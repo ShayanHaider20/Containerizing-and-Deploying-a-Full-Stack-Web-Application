@@ -1,8 +1,3 @@
-# Containerizing-and-Deploying-a-Full-Stack-Web-Application
-Here's a well-structured and visually appealing GitHub README file for your project:  
-
----
-
 # 🐳 Containerizing and Deploying a Full-Stack To-Do Application  
 
 🚀 **Dockerized To-Do App** | **React.js ⚛ | Node.js 🚀 | MongoDB 🗄 | Docker 🐳 | Azure ☁**  
