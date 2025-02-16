@@ -10,6 +10,7 @@ Backend: Node.js, Express.js 🚀
 Database: MongoDB 🗄️
 Authentication: JWT (JSON Web Token) 🔑
 DevOps Tools: Docker, Docker Hub, Azure ☁️
+
 🚀 Features
 ✔ User Authentication – Secure JWT-based login & registration.
 ✔ To-Do Management – Add, update, and delete tasks.
