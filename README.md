@@ -1,5 +1,6 @@
 # Containerizing-and-Deploying-a-Full-Stack-Web-Application
 🐳 Dockerized To-Do Application
+
 📌 Project Overview
 This project implements a full-stack to-do application with containerized frontend, backend, and database services using Docker. The goal is to enable scalable, portable, and environment-independent deployment with DevOps best practices.
 
