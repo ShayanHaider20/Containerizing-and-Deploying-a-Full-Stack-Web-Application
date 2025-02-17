@@ -36,7 +36,7 @@ This project implements a full-stack **To-Do Application**, containerized using 
 
 ### 🔹 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/ahmedalisheikh4/dockerized-todo-app.git
+git clone https://github.com/ShayanHaider20/Containerizing-and-Deploying-a-Full-Stack-Web-Application.git
 cd dockerized-todo-app
 ```
 
@@ -94,7 +94,7 @@ docker-compose up -d
 ---
 
 ## 🌍 Live Preview  
-🔗 **Live Demo:** [Click here to check deployment](https://devopssat.azurewebsites.net/api) 🚀  
+🔗 **Live Demo:** [Click here to check deployment](https://devopstodo.azurewebsites.net/) 🚀  
 
 ---
 
@@ -106,20 +106,5 @@ docker-compose up -d
 4. Push the branch (`git push origin feature-name`)  
 5. Create a **Pull Request**  
 
-🙌 **Your contributions are welcome!**  
 
----
 
-## 📝 License  
-📜 This project is licensed under the **MIT License**.  
-
----
-
-### 📩 Need Help?  
-Feel free to reach out via **[GitHub Issues](https://github.com/ahmedalisheikh4/dockerized-todo-app/issues)** or contact me at ✉️ **your_email@example.com**  
-
-🚀 **Happy Coding!** 🎯  
-
----
-
-This README file is now **well-structured, visually appealing, and easy to follow**! 🎉 Let me know if you need any modifications! 🚀
